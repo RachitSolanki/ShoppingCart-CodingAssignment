@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc92b66-c424-4ae8-885e-b267103ca263" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/cdkglobal/billingservice/PrimaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+            <state relative-caret-position="180">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
@@ -56,9 +65,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/BillCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabCalculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" />
       </list>
     </option>
@@ -77,89 +86,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cdkglobal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cdkglobal" type="462c0819:PsiDirectoryNode" />
-              <item name="billingservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592852957280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592853110194" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BillCalculatorTest.customerTestLastZeroAmount">
+  <component name="RunManager" selected="JUnit.SlabTest">
     <configuration name="BillCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.cdkglobal.billingservice.test" />
       <extension name="coverage">
@@ -252,10 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SlabTest" />
         <item itemvalue="JUnit.BillCalculatorTest.customerTestLastZeroAmount" />
         <item itemvalue="JUnit.BillCalculatorTest.customerTestLastNegativeAmount" />
         <item itemvalue="JUnit.BillCalculatorTest" />
-        <item itemvalue="JUnit.SlabTest" />
         <item itemvalue="JUnit.BillCalculatorTest.regularCustomerTest" />
       </list>
     </recent_temporary>
@@ -291,18 +224,24 @@
       <option name="presentableId" value="Default" />
       <updated>1592845714874</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test added">
+      <created>1592852968200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592852968200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="move to global">
+      <created>1592853067591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592853067591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 35s.xml">
-      <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 56s.xml">
-      <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 59s.xml">
-      <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BillCalculatorTest_premiumCustomerTest - 2020.06.23 at 00h 21m 22s.xml">
       <configuration name="BillCalculatorTest.premiumCustomerTest" configurationId="JUnit" />
     </history-entry>
@@ -324,23 +263,31 @@
     <history-entry file="BillCalculatorTest - 2020.06.23 at 00h 37m 19s.xml">
       <configuration name="BillCalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BillCalculatorTest_customerTestLastNegativeAmount - 2020.06.23 at 00h 38m 23s.xml">
+      <configuration name="BillCalculatorTest.customerTestLastNegativeAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_customerTestLastZeroAmount - 2020.06.23 at 00h 39m 02s.xml">
+      <configuration name="BillCalculatorTest.customerTestLastZeroAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SlabTest - 2020.06.23 at 00h 40m 48s.xml">
+      <configuration name="SlabTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18247011" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18247011" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SBT Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Docker" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32868218" />
       <window_info anchor="bottom" id="Messages" order="5" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32921174" />
       <window_info anchor="bottom" id="Message" order="7" />
@@ -360,6 +307,37 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test added" />
+    <MESSAGE value="move to class scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="move to class scope" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Objects.class">
@@ -390,16 +368,6 @@
           <folding>
             <element signature="e#25029#25030#0" expanded="true" />
             <element signature="e#25081#25082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -447,10 +415,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+        <state relative-caret-position="180">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>

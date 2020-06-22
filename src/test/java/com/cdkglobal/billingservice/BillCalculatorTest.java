@@ -76,13 +76,13 @@ public void premiumCustomerTestLastSlab() {
 
 
 @Test
-public void customerTestLastNegativeAmount() {
+public void customerTestNegativeAmount() {
         BillCalculator billCalculator = new BillCalculator(slabTableHashMap);
         Assert.assertEquals(-20000,billCalculator.calculateBillAmount(CustomerType.PREMIUM,-20000),0);
 }
 
 @Test
-public void customerTestLastZeroAmount() {
+public void customerTestZeroAmount() {
         BillCalculator billCalculator = new BillCalculator(slabTableHashMap);
         Assert.assertEquals(0,billCalculator.calculateBillAmount(CustomerType.PREMIUM,0),0);
 }
