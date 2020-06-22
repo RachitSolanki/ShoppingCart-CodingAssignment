@@ -92,7 +92,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592853110194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592853269178" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SlabTest">
+  <component name="RunManager" selected="JUnit.BillCalculatorTest">
     <configuration name="BillCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.cdkglobal.billingservice.test" />
       <extension name="coverage">
@@ -117,22 +117,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
       <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BillCalculatorTest.customerTestLastNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.cdkglobal.billingservice.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
-      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
-      <option name="METHOD_NAME" value="customerTestLastNegativeAmount" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,7 +137,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BillCalculatorTest.regularCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BillCalculatorTest.customerTestNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.cdkglobal.billingservice.test" />
       <extension name="coverage">
         <pattern>
@@ -163,7 +147,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
       <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
-      <option name="METHOD_NAME" value="regularCustomerTest" />
+      <option name="METHOD_NAME" value="customerTestNegativeAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillCalculatorTest.customerTestZeroAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cdkglobal.billingservice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
+      <option name="METHOD_NAME" value="customerTestZeroAmount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BillCalculatorTest" />
+        <item itemvalue="JUnit.BillCalculatorTest.customerTestZeroAmount" />
+        <item itemvalue="JUnit.BillCalculatorTest.customerTestNegativeAmount" />
         <item itemvalue="JUnit.SlabTest" />
         <item itemvalue="JUnit.BillCalculatorTest.customerTestLastZeroAmount" />
-        <item itemvalue="JUnit.BillCalculatorTest.customerTestLastNegativeAmount" />
-        <item itemvalue="JUnit.BillCalculatorTest" />
-        <item itemvalue="JUnit.BillCalculatorTest.regularCustomerTest" />
       </list>
     </recent_temporary>
   </component>
