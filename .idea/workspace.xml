@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc92b66-c424-4ae8-885e-b267103ca263" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/CustomerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/BillCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/cdkglobal/billingservice/PrimaryTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,46 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/BillCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="396">
+              <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -93,9 +53,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/CustomerType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/PurchaseSlab.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/BillCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -150,25 +114,6 @@
               <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cdkglobal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="cdkglobal" type="462c0819:PsiDirectoryNode" />
-              <item name="billingservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="billingservice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -204,15 +149,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cdkglobal" type="462c0819:PsiDirectoryNode" />
               <item name="billingservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="billingservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -223,7 +159,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592851471284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592852957280" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="PrimaryTest.basicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BillCalculatorTest.customerTestLastZeroAmount">
+    <configuration name="BillCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.cdkglobal.billingservice.test" />
       <extension name="coverage">
         <pattern>
@@ -247,16 +183,80 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
-      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.PrimaryTest" />
-      <option name="METHOD_NAME" value="basicTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillCalculatorTest.customerTestLastNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cdkglobal.billingservice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
+      <option name="METHOD_NAME" value="customerTestLastNegativeAmount" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillCalculatorTest.customerTestLastZeroAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cdkglobal.billingservice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
+      <option name="METHOD_NAME" value="customerTestLastZeroAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillCalculatorTest.regularCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cdkglobal.billingservice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.BillCalculatorTest" />
+      <option name="METHOD_NAME" value="regularCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlabTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.cdkglobal.billingservice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdkglobal.billingservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cdkglobal.billingservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cdkglobal.billingservice.SlabTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimaryTest.basicTest" />
+        <item itemvalue="JUnit.BillCalculatorTest.customerTestLastZeroAmount" />
+        <item itemvalue="JUnit.BillCalculatorTest.customerTestLastNegativeAmount" />
+        <item itemvalue="JUnit.BillCalculatorTest" />
+        <item itemvalue="JUnit.SlabTest" />
+        <item itemvalue="JUnit.BillCalculatorTest.regularCustomerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -294,11 +294,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 03m 56s.xml">
+    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 35s.xml">
       <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 04m 52s.xml">
+    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 56s.xml">
       <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimaryTest_basicTest - 2020.06.23 at 00h 13m 59s.xml">
+      <configuration name="PrimaryTest.basicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_premiumCustomerTest - 2020.06.23 at 00h 21m 22s.xml">
+      <configuration name="BillCalculatorTest.premiumCustomerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_premiumCustomerTestSecondSlab - 2020.06.23 at 00h 22m 55s.xml">
+      <configuration name="BillCalculatorTest.premiumCustomerTestSecondSlab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_premiumCustomerTestThirdSlab - 2020.06.23 at 00h 22m 59s.xml">
+      <configuration name="BillCalculatorTest.premiumCustomerTestThirdSlab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_premiumCustomerTestLastSlab - 2020.06.23 at 00h 23m 04s.xml">
+      <configuration name="BillCalculatorTest.premiumCustomerTestLastSlab" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest_regularCustomerTest - 2020.06.23 at 00h 23m 12s.xml">
+      <configuration name="BillCalculatorTest.regularCustomerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SlabTest - 2020.06.23 at 00h 30m 12s.xml">
+      <configuration name="SlabTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillCalculatorTest - 2020.06.23 at 00h 37m 19s.xml">
+      <configuration name="BillCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -310,7 +334,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18964143" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18247011" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SBT Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -322,7 +346,7 @@
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.32868218" />
-      <window_info anchor="bottom" id="Debug" order="10" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
@@ -337,44 +361,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/CustomerType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Objects.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -407,10 +394,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/SlabTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/SlabTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="432">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#293#294#0" expanded="true" />
@@ -421,25 +435,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/BillCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="252">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/Slab.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cdkglobal/billingservice/CustomerType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="54">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/PrimaryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cdkglobal/billingservice/BillCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="396">
+          <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
         </state>
       </provider>
     </entry>
