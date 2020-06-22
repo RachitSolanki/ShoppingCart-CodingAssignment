@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/play-java-websocket-example-2.6.x" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/ProHealth+QMS/userService" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/RxJavaSource/RxJava" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/eureka" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/microservice/user-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/VideoLedWall/Resources/mpegts-streamer-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Udemy/SpringBootProjects/FullFledgeApplication" value="PREVIEW" />
+        <entry key="$USER_HOME$/Udemy/SpringBootProjects/demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="89" />
+    <option name="y" value="85" />
+    <option name="width" value="1275" />
+    <option name="height" value="640" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592845822782" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/JavaWorkspace/ScalaPlay" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/lagom-java-sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/play-java-starter-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/JavaWorkspace/playframework-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/Flow/flow-plustv" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/Meeting-Solution/msfc_enterprise_application_backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/Pro-Sign-Cloud/prosigncloud-playframework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/ProHealth+/pro-health-plus-web-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/QMS/qms" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/SapphireLake/sapphirelake" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/SapphireLake/sapphirelake/modules/msfc_enterprise_application" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/TaskManagment Software/taskmanagmentsoftware" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/VideoLedWall/ad-web" value="PREVIEW" />
+        <entry key="/media/plustv-dev-0/Plustv-imp/Rachit/Production-Workspace/SensorKiosk/posbackend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
